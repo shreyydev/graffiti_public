@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856475744024",
+    "project_id": "graffiti-16425",
+    "storage_bucket": "graffiti-16425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856475744024:android:5abbcb5c2a4129f961506d",
+        "android_client_info": {
+          "package_name": "com.example.nfc_tagger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856475744024-kuc8ir25vh7ntvdtl7nmbohicv9v2p78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvLygJGk_nyLZsQVJAPhdWYXmXoW7Ahs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856475744024-kuc8ir25vh7ntvdtl7nmbohicv9v2p78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
